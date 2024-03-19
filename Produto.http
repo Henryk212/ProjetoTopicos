@@ -1,0 +1,5 @@
+GET http://localhost:5274/ HTTP/1.1
+
+### Produtos
+
+GET http://localhost:5274/api/produto HTTP/1.1
